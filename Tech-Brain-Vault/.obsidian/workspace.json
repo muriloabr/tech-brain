@@ -1,0 +1,537 @@
+{
+  "main": {
+    "id": "58390357873d83e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b128cfbbf7ec286a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9902a8943afa1ef8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Permanent Notes/Tech/07 - AI/Inteligência Artificial.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Inteligência Artificial"
+            }
+          },
+          {
+            "id": "33ea93dc6ceb204b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Permanent Notes/Tech/01 - Foundations/Algorithm Paradigms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algorithm Paradigms"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6ead24adb88dddb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3484669bb675b902",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Literature Notes/Personal/A Educação da Vontade.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "A Educação da Vontade"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d8734ee6807be6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "59b248c7ed7ccaae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f18ab883f316ac5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "437e8fbe1f4f6284",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8e74ceecc11e515e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "5687c1f001e96253",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361.5
+  },
+  "right": {
+    "id": "6448641b0fc70eb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "30e4bc08f86d7f15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cdf5e9c903054c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "36244e42617ebfe4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Dashboard/Manual do Vault.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Manual do Vault"
+            }
+          },
+          {
+            "id": "d7c5c1fa60b691a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c25aed03159984fa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a97a7c1644e49763",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "8c35474357168f6a",
+            "type": "leaf",
+            "state": {
+              "type": "link-tree",
+              "state": {},
+              "icon": "list-tree",
+              "title": "Link Tree"
+            }
+          },
+          {
+            "id": "427ac4e0a1160abe",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "6f9b8de80b12db91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9a192d1e82182cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - Permanent Notes/Tech/01 - Foundations/Algorithm Paradigms.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Algorithm Paradigms"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 526.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "link-tree:Link Tree": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "bases:Create new base": false
+    }
+  },
+  "floating": {
+    "id": "fb2686d10d0b9e18",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3fbf85355c13e2b4",
+        "type": "window",
+        "children": [
+          {
+            "id": "9e2b30fec54b51ce",
+            "type": "tabs",
+            "dimension": 49.54427083333334,
+            "children": [
+              {
+                "id": "ce5c25d2715826d1",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ba09ee58b547c4d4",
+            "type": "tabs",
+            "dimension": 50.45572916666666,
+            "children": [
+              {
+                "id": "9d70551a8d36eb31",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "03 - Permanent Notes/Tech/01 - Foundations/Algorithm Paradigms.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of Algorithm Paradigms"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -380,
+        "y": 1089,
+        "width": 1920,
+        "height": 1035,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "f31e2a73adb85a7a",
+        "type": "window",
+        "children": [
+          {
+            "id": "95c73702a961f152",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1430735918227bd8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01 - Dashboard/0 - Dashboard Geral.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "0 - Dashboard Geral"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1080,
+        "y": 848,
+        "width": 1080,
+        "height": 1024,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "94f564b4f9461479",
+        "type": "window",
+        "children": [
+          {
+            "id": "74aa14b80abb0030",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d943f5daa8e3532b",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              },
+              {
+                "id": "e422e1876efd7ffa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03 - Permanent Notes/Tech/01 - Foundations/Algoritmo.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Algoritmo"
+                }
+              }
+            ]
+          },
+          {
+            "id": "0476c813d861cb09",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3b509e6c2ed687bd",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03 - Permanent Notes/Career/Transição de Carreira.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Transição de Carreira"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -3,
+        "y": 1151,
+        "width": 989,
+        "height": 993,
+        "maximize": true,
+        "zoom": 0
+      },
+      {
+        "id": "af12513cf9bc6643",
+        "type": "window",
+        "children": [
+          {
+            "id": "bbed80022f581676",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "90001de1d00accdd",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03 - Permanent Notes/Personal/Mudança de Carreira segundo Jules Payot.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Mudança de Carreira segundo Jules Payot"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1051,
+        "y": 1138,
+        "width": 962,
+        "height": 972,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5f18ab883f316ac5",
+  "lastOpenFiles": [
+    "03 - Permanent Notes/Tech/01 - Foundations/01 - Foundations.zip",
+    "03 - Permanent Notes/Tech/01 - Foundations/Algoritmo.md",
+    "03 - Permanent Notes/Tech/01 - Foundations/Algorithm Paradigms.md",
+    "03 - Permanent Notes/Tech/07 - AI/Inteligência Artificial.md",
+    "03 - Permanent Notes/Career/Transição de Carreira.md",
+    "02 - Literature Notes/Personal/A Educação da Vontade.md",
+    "03 - Permanent Notes/Personal/Counter Strike.md",
+    "03 - Permanent Notes/Personal/CSFLOAT.md",
+    "03 - Permanent Notes/Personal/Venda Skins CS2.md",
+    "03 - Permanent Notes/Personal/Mudança de Carreira segundo Jules Payot.md",
+    "03 - Permanent Notes/Personal/Protocolo Anti-Dispersão de Payot.md",
+    "03 - Permanent Notes/Personal/Método Payot.md",
+    "03 - Permanent Notes/Personal/Jules Payot.md",
+    "01 - Dashboard/0 - Dashboard Geral.md",
+    "03 - Permanent Notes/Tech/01 - Foundations/Memory Management.md",
+    "03 - Permanent Notes/Tech/01 - Foundations/Process Management.md",
+    "03 - Permanent Notes/Tech/01 - Foundations/Operating Systems.md",
+    "03 - Permanent Notes/Tech/01 - Foundations/Infinite Loop.md",
+    "03 - Permanent Notes/Tech/01 - Foundations/Recursion.md",
+    "03 - Permanent Notes/Tech/01 - Foundations/Truth Table.md",
+    "03 - Permanent Notes/Tech/01 - Foundations/Data Structures.md",
+    "03 - Permanent Notes/Tech/01 - Foundations/Control Structures.md",
+    "03 - Permanent Notes/Tech/01 - Foundations/Logic.md",
+    "03 - Permanent Notes/Tech/01 - Foundations/Boolean Algebra.md",
+    "03 - Permanent Notes/Tech/01 - Foundations/Iteration.md",
+    "03 - Permanent Notes/Tech/01 - Foundations/Selection Control.md",
+    "03 - Permanent Notes/Tech/05 - Software & Products",
+    "03 - Permanent Notes/Tech/03 - Infrastructure & Systems",
+    "03 - Permanent Notes/Tech/02 - Architecture & Design",
+    "03 - Permanent Notes/Tech/01 - Foundations",
+    "03 - Permanent Notes/Tech/07 - AI",
+    "04 - Maps of Content/Career",
+    "04 - Maps of Content/Audiovisual",
+    "04 - Maps of Content/Personal",
+    "04 - Maps of Content/Tech",
+    "03 - Permanent Notes/Tech/06 - Management & Process",
+    "Pasted image 20260204001642.png",
+    "Pasted image 20260203224752.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

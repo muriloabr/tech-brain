@@ -1,0 +1,10 @@
+/* Muda a cor das TAGS no Graph View e no Texto */
+.theme-dark {
+  --tag-color: #FFD700;
+  --tag-text-color: #000000; /* Texto preto para ler bem no amarelo */
+}
+
+/* Força específica para alguns temas que usam variáveis diferentes */
+.graph-view.color-fill-tag {
+  color: #FFD700 !important;
+}

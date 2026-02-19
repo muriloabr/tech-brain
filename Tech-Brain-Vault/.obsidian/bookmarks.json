@@ -1,0 +1,732 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1770949995722,
+      "title": "INBOX",
+      "options": {
+        "collapse-filter": true,
+        "search": "path:\"00 - Inbox\"  ",
+        "showTags": true,
+        "showAttachments": true,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "path:\"00 - Inbox\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 13041408
+            }
+          },
+          {
+            "query": "[\"area\":\"Tech\"]",
+            "color": {
+              "a": 1,
+              "rgb": 58879
+            }
+          },
+          {
+            "query": "[\"area\":\"Personal\"]",
+            "color": {
+              "a": 1,
+              "rgb": 51283
+            }
+          },
+          {
+            "query": "[\"area\":Career]",
+            "color": {
+              "a": 1,
+              "rgb": 16732754
+            }
+          },
+          {
+            "query": "[\"area\":Audiovisual]",
+            "color": {
+              "a": 1,
+              "rgb": 13959417
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": true,
+        "textFadeMultiplier": -3,
+        "nodeSizeMultiplier": 1.12083333333333,
+        "lineSizeMultiplier": 0.852864583333333,
+        "collapse-forces": true,
+        "centerStrength": 0.544270833333333,
+        "repelStrength": 13.8020833333333,
+        "linkStrength": 1,
+        "linkDistance": 30,
+        "scale": 0.18462326225857031,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1770993231910,
+      "title": "INBOX - AREAS",
+      "options": {
+        "collapse-filter": true,
+        "search": "path:\"00 - Inbox\"  ",
+        "showTags": true,
+        "showAttachments": true,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "[\"area\":\"Tech\"]",
+            "color": {
+              "a": 1,
+              "rgb": 58879
+            }
+          },
+          {
+            "query": "[\"area\":\"Personal\"]",
+            "color": {
+              "a": 1,
+              "rgb": 51283
+            }
+          },
+          {
+            "query": "[\"area\":Career]",
+            "color": {
+              "a": 1,
+              "rgb": 16732754
+            }
+          },
+          {
+            "query": "[\"area\":Audiovisual]",
+            "color": {
+              "a": 1,
+              "rgb": 13959417
+            }
+          },
+          {
+            "query": "path:\"00 - Inbox\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 15663027
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": true,
+        "textFadeMultiplier": -3,
+        "nodeSizeMultiplier": 1.12083333333333,
+        "lineSizeMultiplier": 0.852864583333333,
+        "collapse-forces": true,
+        "centerStrength": 0.544270833333333,
+        "repelStrength": 13.8020833333333,
+        "linkStrength": 1,
+        "linkDistance": 30,
+        "scale": 0.1846232622585701,
+        "close": true
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1770949640604,
+      "title": "GERAL",
+      "options": {
+        "collapse-filter": true,
+        "search": "-path:99 -path:\"01 - Dashboard\"  ",
+        "showTags": true,
+        "showAttachments": true,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "path:\"00 - Inbox\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 13041408
+            }
+          },
+          {
+            "query": "[\"area\":\"Tech\"]",
+            "color": {
+              "a": 1,
+              "rgb": 58879
+            }
+          },
+          {
+            "query": "[\"area\":\"Personal\"]",
+            "color": {
+              "a": 1,
+              "rgb": 51283
+            }
+          },
+          {
+            "query": "[\"area\":Career]",
+            "color": {
+              "a": 1,
+              "rgb": 16732754
+            }
+          },
+          {
+            "query": "[\"area\":Audiovisual]",
+            "color": {
+              "a": 1,
+              "rgb": 13959417
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": true,
+        "textFadeMultiplier": -0.5,
+        "nodeSizeMultiplier": 2.00130208333333,
+        "lineSizeMultiplier": 0.852864583333333,
+        "collapse-forces": true,
+        "centerStrength": 0.544270833333333,
+        "repelStrength": 20,
+        "linkStrength": 1,
+        "linkDistance": 500,
+        "scale": 0.06699744995282036,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1770946109441,
+      "title": "GERAL - AREAS",
+      "options": {
+        "collapse-filter": true,
+        "search": "-path:99 -path:\"01 - Dashboard\"  ",
+        "showTags": true,
+        "showAttachments": true,
+        "hideUnresolved": true,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "path:\"00 - Inbox\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 13041408
+            }
+          },
+          {
+            "query": "[\"area\":\"Tech\"]",
+            "color": {
+              "a": 1,
+              "rgb": 58879
+            }
+          },
+          {
+            "query": "[\"area\":\"Personal\"]",
+            "color": {
+              "a": 1,
+              "rgb": 51283
+            }
+          },
+          {
+            "query": "[\"area\":Career]",
+            "color": {
+              "a": 1,
+              "rgb": 16732754
+            }
+          },
+          {
+            "query": "[\"area\":Audiovisual]",
+            "color": {
+              "a": 1,
+              "rgb": 13959417
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": true,
+        "textFadeMultiplier": -0.5,
+        "nodeSizeMultiplier": 1.12083333333333,
+        "lineSizeMultiplier": 0.852864583333333,
+        "collapse-forces": true,
+        "centerStrength": 0.544270833333333,
+        "repelStrength": 13.8020833333333,
+        "linkStrength": 1,
+        "linkDistance": 30,
+        "scale": 0.18462326225857095,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1770949807074,
+      "title": "PERMANENT",
+      "options": {
+        "collapse-filter": true,
+        "search": "path:\"03 - Permanent Notes\"  ",
+        "showTags": true,
+        "showAttachments": true,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "path:\"00 - Inbox\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 13041408
+            }
+          },
+          {
+            "query": "[\"area\":\"Tech\"]",
+            "color": {
+              "a": 1,
+              "rgb": 58879
+            }
+          },
+          {
+            "query": "[\"area\":\"Personal\"]",
+            "color": {
+              "a": 1,
+              "rgb": 51283
+            }
+          },
+          {
+            "query": "[\"area\":Career]",
+            "color": {
+              "a": 1,
+              "rgb": 16732754
+            }
+          },
+          {
+            "query": "[\"area\":Audiovisual]",
+            "color": {
+              "a": 1,
+              "rgb": 13959417
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": true,
+        "textFadeMultiplier": -0.5,
+        "nodeSizeMultiplier": 1.12083333333333,
+        "lineSizeMultiplier": 0.852864583333333,
+        "collapse-forces": true,
+        "centerStrength": 0.544270833333333,
+        "repelStrength": 13.8020833333333,
+        "linkStrength": 1,
+        "linkDistance": 30,
+        "scale": 0.18462326225857048,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1770949845574,
+      "title": "LITERATURE",
+      "options": {
+        "collapse-filter": true,
+        "search": "path:\"02 - Literature Notes\"  ",
+        "showTags": true,
+        "showAttachments": true,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "path:\"00 - Inbox\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 13041408
+            }
+          },
+          {
+            "query": "[\"area\":\"Tech\"]",
+            "color": {
+              "a": 1,
+              "rgb": 58879
+            }
+          },
+          {
+            "query": "[\"area\":\"Personal\"]",
+            "color": {
+              "a": 1,
+              "rgb": 51283
+            }
+          },
+          {
+            "query": "[\"area\":Career]",
+            "color": {
+              "a": 1,
+              "rgb": 16732754
+            }
+          },
+          {
+            "query": "[\"area\":Audiovisual]",
+            "color": {
+              "a": 1,
+              "rgb": 13959417
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": true,
+        "textFadeMultiplier": -0.5,
+        "nodeSizeMultiplier": 1.12083333333333,
+        "lineSizeMultiplier": 0.852864583333333,
+        "collapse-forces": true,
+        "centerStrength": 0.544270833333333,
+        "repelStrength": 13.8020833333333,
+        "linkStrength": 1,
+        "linkDistance": 30,
+        "scale": 0.18462326225857048,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1770949872590,
+      "title": "WORK",
+      "options": {
+        "collapse-filter": true,
+        "search": "path:\"05 - Work Notes\"  ",
+        "showTags": true,
+        "showAttachments": true,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "path:\"00 - Inbox\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 13041408
+            }
+          },
+          {
+            "query": "[\"area\":\"Tech\"]",
+            "color": {
+              "a": 1,
+              "rgb": 58879
+            }
+          },
+          {
+            "query": "[\"area\":\"Personal\"]",
+            "color": {
+              "a": 1,
+              "rgb": 51283
+            }
+          },
+          {
+            "query": "[\"area\":Career]",
+            "color": {
+              "a": 1,
+              "rgb": 16732754
+            }
+          },
+          {
+            "query": "[\"area\":Audiovisual]",
+            "color": {
+              "a": 1,
+              "rgb": 13959417
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": true,
+        "textFadeMultiplier": -0.5,
+        "nodeSizeMultiplier": 1.12083333333333,
+        "lineSizeMultiplier": 0.852864583333333,
+        "collapse-forces": true,
+        "centerStrength": 0.544270833333333,
+        "repelStrength": 13.8020833333333,
+        "linkStrength": 1,
+        "linkDistance": 30,
+        "scale": 0.7132754626224004,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1770949727159,
+      "title": "MOCs",
+      "options": {
+        "collapse-filter": true,
+        "search": "path:\"04 - Maps of Content\"  ",
+        "showTags": true,
+        "showAttachments": true,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "path:\"00 - Inbox\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 13041408
+            }
+          },
+          {
+            "query": "[\"area\":\"Tech\"]",
+            "color": {
+              "a": 1,
+              "rgb": 58879
+            }
+          },
+          {
+            "query": "[\"area\":\"Personal\"]",
+            "color": {
+              "a": 1,
+              "rgb": 51283
+            }
+          },
+          {
+            "query": "[\"area\":Career]",
+            "color": {
+              "a": 1,
+              "rgb": 16732754
+            }
+          },
+          {
+            "query": "[\"area\":Audiovisual]",
+            "color": {
+              "a": 1,
+              "rgb": 13959417
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": true,
+        "textFadeMultiplier": -0.5,
+        "nodeSizeMultiplier": 1.12083333333333,
+        "lineSizeMultiplier": 0.852864583333333,
+        "collapse-forces": true,
+        "centerStrength": 0.544270833333333,
+        "repelStrength": 13.8020833333333,
+        "linkStrength": 1,
+        "linkDistance": 30,
+        "scale": 0.9999999999999432,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1771006780124,
+      "title": "PERMANENT - TECH[GARDEN]",
+      "options": {
+        "collapse-filter": true,
+        "search": "path:\"03 - Permanent Notes\"  [\"area\":Tech]",
+        "showTags": true,
+        "showAttachments": true,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "[\"status\":🌳]",
+            "color": {
+              "a": 1,
+              "rgb": 5141760
+            }
+          },
+          {
+            "query": "[\"status\":🌿]",
+            "color": {
+              "a": 1,
+              "rgb": 5554260
+            }
+          },
+          {
+            "query": "[\"status\":🌱]",
+            "color": {
+              "a": 1,
+              "rgb": 5888430
+            }
+          },
+          {
+            "query": "[\"status\":] OR -[\"status\":]",
+            "color": {
+              "a": 1,
+              "rgb": 16714250
+            }
+          },
+          {
+            "query": "[\"area\":\"Tech\"]",
+            "color": {
+              "a": 1,
+              "rgb": 58879
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": true,
+        "textFadeMultiplier": -0.4,
+        "nodeSizeMultiplier": 1.95026041666667,
+        "lineSizeMultiplier": 1.46536458333333,
+        "collapse-forces": true,
+        "centerStrength": 0.544270833333333,
+        "repelStrength": 13.8020833333333,
+        "linkStrength": 1,
+        "linkDistance": 30,
+        "scale": 0.184623262258568,
+        "close": true
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1770951207850,
+      "title": "PERMANENT - TECH[LIT|CONCEPT]",
+      "options": {
+        "collapse-filter": true,
+        "search": "path:\"03 - Permanent Notes\"  [\"area\":Tech]",
+        "showTags": true,
+        "showAttachments": true,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "[\"type\":concept]",
+            "color": {
+              "a": 1,
+              "rgb": 3305426
+            }
+          },
+          {
+            "query": "[\"type\":literature]",
+            "color": {
+              "a": 1,
+              "rgb": 10244047
+            }
+          },
+          {
+            "query": "[\"area\":\"Tech\"]",
+            "color": {
+              "a": 1,
+              "rgb": 58879
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": true,
+        "textFadeMultiplier": -3,
+        "nodeSizeMultiplier": 1.12083333333333,
+        "lineSizeMultiplier": 0.852864583333333,
+        "collapse-forces": true,
+        "centerStrength": 0.544270833333333,
+        "repelStrength": 13.8020833333333,
+        "linkStrength": 1,
+        "linkDistance": 30,
+        "scale": 0.2588386562181473,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1770987650723,
+      "title": "PERMANENT - TECH [LIT| CONCEPT| IA| CLOUD]",
+      "options": {
+        "collapse-filter": true,
+        "search": "path:\"03 - Permanent Notes\"  [\"area\":Tech]",
+        "showTags": true,
+        "showAttachments": true,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "tag:#artificial-intelligence  ",
+            "color": {
+              "a": 1,
+              "rgb": 13898477
+            }
+          },
+          {
+            "query": "tag:#cloud-computing  ",
+            "color": {
+              "a": 1,
+              "rgb": 16750858
+            }
+          },
+          {
+            "query": "[\"type\":concept]",
+            "color": {
+              "a": 1,
+              "rgb": 3305426
+            }
+          },
+          {
+            "query": "[\"type\":literature]",
+            "color": {
+              "a": 1,
+              "rgb": 826672
+            }
+          },
+          {
+            "query": "[\"area\":\"Tech\"]",
+            "color": {
+              "a": 1,
+              "rgb": 58879
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": true,
+        "textFadeMultiplier": -3,
+        "nodeSizeMultiplier": 1.12083333333333,
+        "lineSizeMultiplier": 0.852864583333333,
+        "collapse-forces": true,
+        "centerStrength": 0.544270833333333,
+        "repelStrength": 13.8020833333333,
+        "linkStrength": 1,
+        "linkDistance": 30,
+        "scale": 0.25883865621814606,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1770950989359,
+      "title": "PERMANENT - PERSONAL[LIT|CONCEPT]",
+      "options": {
+        "collapse-filter": true,
+        "search": "path:\"03 - Permanent Notes\"  [\"area\":Personal]",
+        "showTags": true,
+        "showAttachments": true,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "[\"type\":literature]",
+            "color": {
+              "a": 1,
+              "rgb": 13112300
+            }
+          },
+          {
+            "query": "[\"type\":concept]",
+            "color": {
+              "a": 1,
+              "rgb": 1470435
+            }
+          },
+          {
+            "query": "[\"area\":\"Personal\"]",
+            "color": {
+              "a": 1,
+              "rgb": 51283
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": true,
+        "textFadeMultiplier": -3,
+        "nodeSizeMultiplier": 1.12083333333333,
+        "lineSizeMultiplier": 0.852864583333333,
+        "collapse-forces": true,
+        "centerStrength": 0.544270833333333,
+        "repelStrength": 13.8020833333333,
+        "linkStrength": 1,
+        "linkDistance": 30,
+        "scale": 0.7132754626223996,
+        "close": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiCursorLine",
+      "LiLayoutTemplate",
+      "LiSignpostBig",
+      "LiAArrowUp",
+      "RiSettingsLine"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "00 - Inbox": "LiInbox",
+  "01 - Dashboard": "RiDashboardLine",
+  "02 - Literature Notes": "RiNewsLine",
+  "03 - Permanent Notes": "LiBrain",
+  "04 - Maps of Content": "LiMapMinus",
+  "05 - Work Notes": "RiSettingsLine",
+  "99 - Assets": "RiCursorLine",
+  "99 - Templates": "LiLayoutTemplate"
+}

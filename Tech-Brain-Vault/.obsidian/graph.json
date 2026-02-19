@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "path:\"03 - Permanent Notes\"  [\"area\":Tech]",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "[\"status\":🌳]",
+      "color": {
+        "a": 1,
+        "rgb": 5141760
+      }
+    },
+    {
+      "query": "[\"status\":🌿]",
+      "color": {
+        "a": 1,
+        "rgb": 5554260
+      }
+    },
+    {
+      "query": "[\"status\":🌱]",
+      "color": {
+        "a": 1,
+        "rgb": 5888430
+      }
+    },
+    {
+      "query": "[\"status\":] OR -[\"status\":]",
+      "color": {
+        "a": 1,
+        "rgb": 16714250
+      }
+    },
+    {
+      "query": "[\"area\":\"Tech\"]",
+      "color": {
+        "a": 1,
+        "rgb": 58879
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1.95026041666667,
+  "lineSizeMultiplier": 1.46536458333333,
+  "collapse-forces": true,
+  "centerStrength": 0.544270833333333,
+  "repelStrength": 13.8020833333333,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.508761885579196,
+  "close": true
+}
